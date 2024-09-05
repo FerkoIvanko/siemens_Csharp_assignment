@@ -1,0 +1,17 @@
+F:\Siemens2\obj\Debug\net8.0\Siemens2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Siemens2\obj\Debug\net8.0\Siemens2.AssemblyInfoInputs.cache
+F:\Siemens2\obj\Debug\net8.0\Siemens2.AssemblyInfo.cs
+F:\Siemens2\obj\Debug\net8.0\Siemens2.csproj.CoreCompileInputs.cache
+F:\Siemens2\obj\Debug\net8.0\Siemens2.csproj.AssemblyReference.cache
+F:\Siemens2\bin\Debug\net8.0\Siemens2.exe
+F:\Siemens2\bin\Debug\net8.0\Siemens2.deps.json
+F:\Siemens2\bin\Debug\net8.0\Siemens2.runtimeconfig.json
+F:\Siemens2\bin\Debug\net8.0\Siemens2.dll
+F:\Siemens2\bin\Debug\net8.0\Siemens2.pdb
+F:\Siemens2\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\Siemens2\obj\Debug\net8.0\Siemens2.csproj.Up2Date
+F:\Siemens2\obj\Debug\net8.0\Siemens2.dll
+F:\Siemens2\obj\Debug\net8.0\refint\Siemens2.dll
+F:\Siemens2\obj\Debug\net8.0\Siemens2.pdb
+F:\Siemens2\obj\Debug\net8.0\Siemens2.genruntimeconfig.cache
+F:\Siemens2\obj\Debug\net8.0\ref\Siemens2.dll

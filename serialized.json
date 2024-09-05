@@ -1,0 +1,206 @@
+{
+  "Name": "Siemens2",
+  "Files": [
+    {
+      "Name": "DirectoryDetails.cs",
+      "Extension": ".cs"
+    },
+    {
+      "Name": "DirectoryScanner.cs",
+      "Extension": ".cs"
+    },
+    {
+      "Name": "JsonHandler.cs",
+      "Extension": ".cs"
+    },
+    {
+      "Name": "Models.cs",
+      "Extension": ".cs"
+    },
+    {
+      "Name": "mypath.json",
+      "Extension": ".json"
+    },
+    {
+      "Name": "Program.cs",
+      "Extension": ".cs"
+    },
+    {
+      "Name": "serialized.json",
+      "Extension": ".json"
+    },
+    {
+      "Name": "Siemens2.csproj",
+      "Extension": ".csproj"
+    },
+    {
+      "Name": "Siemens2.generated.sln",
+      "Extension": ".sln"
+    }
+  ],
+  "SubDirectories": [
+    {
+      "Name": ".dist",
+      "Files": [],
+      "SubDirectories": []
+    },
+    {
+      "Name": "bin",
+      "Files": [],
+      "SubDirectories": [
+        {
+          "Name": "Debug",
+          "Files": [],
+          "SubDirectories": [
+            {
+              "Name": "net8.0",
+              "Files": [
+                {
+                  "Name": "Newtonsoft.Json.dll",
+                  "Extension": ".dll"
+                },
+                {
+                  "Name": "Siemens2.deps.json",
+                  "Extension": ".json"
+                },
+                {
+                  "Name": "Siemens2.dll",
+                  "Extension": ".dll"
+                },
+                {
+                  "Name": "Siemens2.exe",
+                  "Extension": ".exe"
+                },
+                {
+                  "Name": "Siemens2.pdb",
+                  "Extension": ".pdb"
+                },
+                {
+                  "Name": "Siemens2.runtimeconfig.json",
+                  "Extension": ".json"
+                }
+              ],
+              "SubDirectories": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "obj",
+      "Files": [
+        {
+          "Name": "project.assets.json",
+          "Extension": ".json"
+        },
+        {
+          "Name": "project.nuget.cache",
+          "Extension": ".cache"
+        },
+        {
+          "Name": "Siemens2.csproj.nuget.dgspec.json",
+          "Extension": ".json"
+        },
+        {
+          "Name": "Siemens2.csproj.nuget.g.props",
+          "Extension": ".props"
+        },
+        {
+          "Name": "Siemens2.csproj.nuget.g.targets",
+          "Extension": ".targets"
+        }
+      ],
+      "SubDirectories": [
+        {
+          "Name": "Debug",
+          "Files": [],
+          "SubDirectories": [
+            {
+              "Name": "net8.0",
+              "Files": [
+                {
+                  "Name": ".NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+                  "Extension": ".cs"
+                },
+                {
+                  "Name": "apphost.exe",
+                  "Extension": ".exe"
+                },
+                {
+                  "Name": "Siemens2.AssemblyInfo.cs",
+                  "Extension": ".cs"
+                },
+                {
+                  "Name": "Siemens2.AssemblyInfoInputs.cache",
+                  "Extension": ".cache"
+                },
+                {
+                  "Name": "Siemens2.assets.cache",
+                  "Extension": ".cache"
+                },
+                {
+                  "Name": "Siemens2.csproj.AssemblyReference.cache",
+                  "Extension": ".cache"
+                },
+                {
+                  "Name": "Siemens2.csproj.CoreCompileInputs.cache",
+                  "Extension": ".cache"
+                },
+                {
+                  "Name": "Siemens2.csproj.FileListAbsolute.txt",
+                  "Extension": ".txt"
+                },
+                {
+                  "Name": "Siemens2.csproj.Up2Date",
+                  "Extension": ".Up2Date"
+                },
+                {
+                  "Name": "Siemens2.dll",
+                  "Extension": ".dll"
+                },
+                {
+                  "Name": "Siemens2.GeneratedMSBuildEditorConfig.editorconfig",
+                  "Extension": ".editorconfig"
+                },
+                {
+                  "Name": "Siemens2.genruntimeconfig.cache",
+                  "Extension": ".cache"
+                },
+                {
+                  "Name": "Siemens2.GlobalUsings.g.cs",
+                  "Extension": ".cs"
+                },
+                {
+                  "Name": "Siemens2.pdb",
+                  "Extension": ".pdb"
+                }
+              ],
+              "SubDirectories": [
+                {
+                  "Name": "ref",
+                  "Files": [
+                    {
+                      "Name": "Siemens2.dll",
+                      "Extension": ".dll"
+                    }
+                  ],
+                  "SubDirectories": []
+                },
+                {
+                  "Name": "refint",
+                  "Files": [
+                    {
+                      "Name": "Siemens2.dll",
+                      "Extension": ".dll"
+                    }
+                  ],
+                  "SubDirectories": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
